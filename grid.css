@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.parent{
+grid :display;
+grid-template-column: 2;
+}
+.child1{
+grid-column:1;
+grid-template-column: 20px;
+}
+.child2{
+grid-column:1;
+grid-template-column: 80px;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
